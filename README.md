@@ -42,4 +42,4 @@ This project showcases several fundamental Android Views and how to interact wit
 - **Minimum SDK**: Defined in `app/build.gradle.kts` (standard defaults).
 ## Application Screenshot
 
-![Basic Views Demo](screenshots/app_screenshot.png)
+![Basic Views Demo](screenshots/Screenshot1.png)
